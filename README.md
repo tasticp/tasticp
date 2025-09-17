@@ -5,6 +5,10 @@
 
 <!--START_SECTION:waka-->
 
+```rust
+
+```
+
 <!--END_SECTION:waka-->
 
 
