@@ -32,10 +32,21 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME:	true
           SHOW_TOTAL: true
-          CODE_LANG: rust
+          CODE_LANG: json
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 10
           SECTION_NAME: wakaAT
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          TIME_RANGE: all_time
+          SHOW_TIME:	true
+          SHOW_TOTAL: true
+          CODE_LANG: ruby
+          BLOCKS: ･￭
+          LANG_COUNT: 10
+          SECTION_NAME: wakaATT
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
@@ -44,7 +55,7 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
-          CODE_LANG: rust # optional
+          CODE_LANG: python # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
