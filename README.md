@@ -30,6 +30,15 @@ No activity tracked
 <!--END_SECTION:wakaTIC-->
 
 <!--START_SECTION:wakaP-->
+
+```json
+From: 17 September 2025 - To: 17 September 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:wakaP-->
 
 <!--START_SECTION:waka_-->
