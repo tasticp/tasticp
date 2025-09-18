@@ -10,17 +10,17 @@ Tryna be Jack Of All Trades, Singaporean 🇸🇬
 
 ## Stats
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:wakaTAS-->
+<!--END_SECTION:wakaTAS-->
 
-```python
-From: 17 September 2025 - To: 17 September 2025
+<!--START_SECTION:wakaTIC-->
+<!--END_SECTION:wakaTIC-->
 
-Total Time: 0 secs
+<!--START_SECTION:wakaP-->
+<!--END_SECTION:wakaP-->
 
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka_-->
+<!--END_SECTION:waka_-->
 
 ## *More About Me*
 
