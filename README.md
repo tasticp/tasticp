@@ -46,7 +46,7 @@ No activity tracked
 
 <!--START_SECTION:waka-->
 
-```ruby
+```python
 From: 17 September 2025 - To: 17 September 2025
 
 Total Time: 0 secs
