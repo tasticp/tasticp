@@ -34,7 +34,7 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME:	true
           SHOW_TOTAL: true
-          CODE_LANG: json
+          CODE_LANG: rust
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 10
           SECTION_NAME: wakaP
