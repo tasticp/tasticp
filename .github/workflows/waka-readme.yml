@@ -15,6 +15,7 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
+          SECTION_NAME: wakaTAS
       - uses: athul/waka-readme@master  #andy rekth comick
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -25,6 +26,7 @@ jobs:
           CODE_LANG: rust
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 10
+          SECTION_NAME: wakaTIC
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -35,7 +37,7 @@ jobs:
           CODE_LANG: json
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 10
-          SECTION_NAME: wakaAT
+          SECTION_NAME: wakaP
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -46,7 +48,7 @@ jobs:
           CODE_LANG: ruby
           BLOCKS: ･￭
           LANG_COUNT: 10
-          SECTION_NAME: wakaATT
+          SECTION_NAME: waka_
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
