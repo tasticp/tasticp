@@ -41,8 +41,8 @@ No activity tracked
 
 <!--END_SECTION:wakaP-->
 
-<!--START_SECTION:waka_-->
-<!--END_SECTION:waka_-->
+<!--START_SECTION:wakaUnderScore-->
+<!--END_SECTION:wakaUnderScore-->
 
 <!--START_SECTION:waka-->
 
