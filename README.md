@@ -10,6 +10,11 @@ Tryna be Jack Of All Trades, Singaporean 🇸🇬
 ## Stats
 
 <!--START_SECTION:wakaTAS-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:wakaTAS-->
 
 <!--START_SECTION:wakaTIC-->
