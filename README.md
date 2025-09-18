@@ -1,31 +1,31 @@
-## Hi there 👋
 
 
-**tasticp/tasticp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```md
 
-<!--START_SECTION:waka-->
+Hey! I'm `tasticp_`, MR student , vibe coder
+Tryna be Jack Of All Trades, Singaporean 🇸🇬
 
-```python
-From: 17 September 2025 - To: 17 September 2025
 
-Total Time: 0 secs
-
-No activity tracked
 ```
 
+## Stats
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## *More About Me*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+- 🔭 I’m currently working on shit obvs but it's all vibed
+- 🌱 I’m currently learning Mechatronics & Robotics
+- 👯 I’m looking to collaborate on Brainrot/Manga/Music
+- 🤔 I’m looking for help with anything
+- 💬 Ask me about anything (recommend unhinged)
+- 📫 How to reach me: I'm working on my profile
+- 😄 Pronouns: bruh KYS if u need this
+- ⚡ Fun fact: 
 
 
 <!--https://github.com/marketplace/actions/waka-readme-->
