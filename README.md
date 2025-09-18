@@ -5,7 +5,6 @@
 Hey! I'm `tasticp_`, MR student , vibe coder
 Tryna be Jack Of All Trades, Singaporean 🇸🇬
 
-
 ```
 
 ## Stats
