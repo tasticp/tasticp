@@ -12,7 +12,7 @@ Tryna be Jack Of All Trades, Singaporean 🇸🇬
 <!--START_SECTION:wakaTAS-->
 
 ```txt
-No activity tracked
+Markdown   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:wakaTAS-->
