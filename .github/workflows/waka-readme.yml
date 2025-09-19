@@ -12,15 +12,22 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
-          SECTION_NAME: wakaTAS
       - uses: athul/waka-readme@master  #andy rekth comick
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
+          SHOW_TIME:	true
+          SHOW_TOTAL: true
+          CODE_LANG: rust
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          LANG_COUNT: 10
+          SECTION_NAME: wakaTAS
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          TIME_RANGE: all_time
           SHOW_TIME:	true
           SHOW_TOTAL: true
           CODE_LANG: rust
@@ -34,21 +41,10 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME:	true
           SHOW_TOTAL: true
-          CODE_LANG: rust
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          LANG_COUNT: 10
-          SECTION_NAME: wakaP
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          TIME_RANGE: all_time
-          SHOW_TIME:	true
-          SHOW_TOTAL: true
           CODE_LANG: ruby
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 10
-          SECTION_NAME: wakaUnderScore
+          SECTION_NAME: wakaP
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
