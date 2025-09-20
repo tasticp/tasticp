@@ -15,6 +15,7 @@ jobs:
       - uses: athul/waka-readme@master  #andy rekth comick
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
           SHOW_TIME:	true
@@ -26,6 +27,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           TIME_RANGE: all_time
           SHOW_TIME:	true
@@ -37,6 +39,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           TIME_RANGE: all_time
           SHOW_TIME:	true
@@ -47,7 +50,8 @@ jobs:
           SECTION_NAME: wakaP
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # required
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
