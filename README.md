@@ -10,57 +10,14 @@ Vibe coder, Tryna be Jack Of All Trades,
 ## Stats
 
 <!--START_SECTION:wakaTAS-->
-
-```rust
-From: 24 September 2025 - To: 01 October 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:wakaTAS-->
 
 <!--START_SECTION:wakaTIC-->
-
-```html
-From: 17 September 2025 - To: 02 October 2025
-
-Markdown   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀   84.72 %
-JSON       0 secs          ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.96 %
-C          0 secs          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.84 %
-Makefile   0 secs          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.48 %
-```
-
 <!--END_SECTION:wakaTIC-->
 
 <!--START_SECTION:wakaP-->
-
-```ruby
-Total Time: 2 mins
-
-Markdown                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀   84.72 %
-JSON                       ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.96 %
-C                          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.84 %
-Makefile                   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.48 %
-```
-
 <!--END_SECTION:wakaP-->
 
-<!--START_SECTION:waka-->
-
-```python
-From: 17 September 2025 - To: 02 October 2025
-
-Total Time: 2 mins
-
-Markdown   2 mins          >>>>>>>>>>>>>>>>>>>>>----   84.72 %
-JSON       0 secs          >>-----------------------   09.96 %
-C          0 secs          >------------------------   02.84 %
-Makefile   0 secs          >------------------------   02.48 %
-```
-
-<!--END_SECTION:waka-->
 
 ## *More About Me*
 
