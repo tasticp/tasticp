@@ -22,6 +22,16 @@ No activity tracked
 <!--END_SECTION:wakaTAS-->
 
 <!--START_SECTION:wakaTIC-->
+
+```ruby
+Total Time: 2 mins
+
+Markdown                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀   84.72 %
+JSON                       ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.96 %
+C                          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.84 %
+Makefile                   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.48 %
+```
+
 <!--END_SECTION:wakaTIC-->
 
 <!--START_SECTION:wakaP-->
