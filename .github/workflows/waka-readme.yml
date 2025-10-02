@@ -57,8 +57,6 @@ jobs:
           BLOCKS: -> # optional
           CODE_LANG: python
           TIME_RANGE: all_time
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML TOML
