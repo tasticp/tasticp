@@ -23,7 +23,7 @@ jobs:
           CODE_LANG: rust
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 10
-          SECTION_NAME: wakaTIC
+          SECTION_NAME: wakaTAS
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -35,17 +35,17 @@ jobs:
           CODE_LANG: ruby
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 10
-          SECTION_NAME: wakaP
+          SECTION_NAME: wakaTIC
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # required
           SHOW_TITLE: true # optional
-          SECTION_NAME: wakaTAS # optional
           BLOCKS: -> # optional
           CODE_LANG: python
           TIME_RANGE: all_time
           SHOW_MASKED_TIME: true
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML TOML
+          SECTION_NAME: wakaP
       
