@@ -43,14 +43,15 @@ Makefile                   ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:wakaP-->
 
 ```python
-From: 17 September 2025 - To: 17 October 2025
+From: 17 September 2025 - To: 31 October 2025
 
-Total Time: 2 mins
+Total Time: 1 hr 1 min
 
-Markdown   2 mins          >>>>>>>>>>>>>>>>>>>>>----   84.72 %
-JSON       0 secs          >>-----------------------   09.96 %
-C          0 secs          >------------------------   02.84 %
-Makefile   0 secs          >------------------------   02.48 %
+Python     39 mins         >>>>>>>>>>>>>>>>---------   63.45 %
+JSON       7 mins          >>>----------------------   12.13 %
+jsonc      6 mins          >>>----------------------   10.84 %
+HTML       6 mins          >>-----------------------   09.81 %
+Markdown   2 mins          >------------------------   03.55 %
 ```
 
 <!--END_SECTION:wakaP-->
