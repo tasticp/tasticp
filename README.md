@@ -52,15 +52,15 @@ Other                        ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:wakaP-->
 
 ```python
-From: 17 September 2025 - To: 08 November 2025
+From: 17 September 2025 - To: 16 November 2025
 
-Total Time: 6 hrs 6 mins
+Total Time: 10 hrs 19 mins
 
-C++          2 hrs 50 mins   >>>>>>>>>>>>-------------   46.40 %
-Python       1 hr 19 mins    >>>>>--------------------   21.81 %
-CMake        42 mins         >>>----------------------   11.52 %
-TypeScript   23 mins         >>-----------------------   06.33 %
-Markdown     21 mins         >------------------------   05.87 %
+C++          6 hrs 6 mins    >>>>>>>>>>>>>>>----------   59.09 %
+Python       1 hr 52 mins    >>>>>--------------------   18.08 %
+CMake        52 mins         >>-----------------------   08.52 %
+TypeScript   23 mins         >------------------------   03.85 %
+Markdown     21 mins         >------------------------   03.47 %
 ```
 
 <!--END_SECTION:wakaP-->
