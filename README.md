@@ -47,15 +47,14 @@ jsonc                        ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:wakaP-->
 
 ```python
-From: 17 September 2025 - To: 16 November 2025
+From: 17 September 2025 - To: 28 November 2025
 
-Total Time: 10 hrs 19 mins
+Total Time: 15 hrs 9 mins
 
-C++          6 hrs 6 mins    >>>>>>>>>>>>>>>----------   59.09 %
-Python       1 hr 52 mins    >>>>>--------------------   18.08 %
-CMake        52 mins         >>-----------------------   08.52 %
-TypeScript   23 mins         >------------------------   03.85 %
-Markdown     21 mins         >------------------------   03.47 %
+C++          7 hrs 28 mins   >>>>>>>>>>>>-------------   49.27 %
+Python       2 hrs 30 mins   >>>>---------------------   16.58 %
+CMake        2 hrs 21 mins   >>>>---------------------   15.55 %
+Other        1 hr 2 mins     >>-----------------------   06.85 %
 ```
 
 <!--END_SECTION:wakaP-->
