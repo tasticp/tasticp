@@ -49,14 +49,14 @@ JSON                         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:wakaP-->
 
 ```python
-From: 17 September 2025 - To: 28 November 2025
+From: 17 September 2025 - To: 28 December 2025
 
-Total Time: 15 hrs 9 mins
+Total Time: 22 hrs 21 mins
 
-C++          7 hrs 28 mins   >>>>>>>>>>>>-------------   49.27 %
-Python       2 hrs 30 mins   >>>>---------------------   16.58 %
-CMake        2 hrs 21 mins   >>>>---------------------   15.55 %
-Other        1 hr 2 mins     >>-----------------------   06.85 %
+C++          12 hrs 8 mins   >>>>>>>>>>>>>>-----------   54.32 %
+CMake        3 hrs 20 mins   >>>>---------------------   14.93 %
+Python       3 hrs 15 mins   >>>>---------------------   14.54 %
+Other        1 hr 5 mins     >------------------------   04.91 %
 ```
 
 <!--END_SECTION:wakaP-->
