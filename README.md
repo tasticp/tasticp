@@ -52,15 +52,15 @@ Rust                         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:wakaP-->
 
 ```python
-From: 17 September 2025 - To: 15 January 2026
+From: 17 September 2025 - To: 21 January 2026
 
-Total Time: 35 hrs 53 mins
+Total Time: 40 hrs 16 mins
 
-C++          12 hrs 48 mins  >>>>>>>>>----------------   35.68 %
-JSON         4 hrs 48 mins   >>>----------------------   13.40 %
-Python       3 hrs 36 mins   >>>----------------------   10.08 %
-CMake        3 hrs 20 mins   >>-----------------------   09.32 %
-TypeScript   3 hrs 16 mins   >>-----------------------   09.12 %
+C++          12 hrs 48 mins  >>>>>>>>-----------------   31.79 %
+JSON         5 hrs 32 mins   >>>----------------------   13.76 %
+Markdown     4 hrs 9 mins    >>>----------------------   10.32 %
+Python       3 hrs 36 mins   >>-----------------------   08.98 %
+CMake        3 hrs 20 mins   >>-----------------------   08.31 %
 ```
 
 <!--END_SECTION:wakaP-->
