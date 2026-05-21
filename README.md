@@ -43,15 +43,15 @@ Other                              ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:wakaP-->
 
 ```python
-From: 17 September 2025 - To: 19 April 2026
+From: 17 September 2025 - To: 20 May 2026
 
-Total Time: 53 hrs 16 mins
+Total Time: 63 hrs 30 mins
 
-C++          16 hrs 32 mins        >>>>>>>>-----------------   31.06 %
-C            8 hrs 3 mins          >>>>---------------------   15.13 %
-JSON         5 hrs 32 mins         >>>----------------------   10.41 %
-Markdown     4 hrs 9 mins          >>-----------------------   07.80 %
-Python       3 hrs 49 mins         >>-----------------------   07.17 %
+C++          16 hrs 37 mins        >>>>>>>------------------   26.16 %
+C            8 hrs 3 mins          >>>----------------------   12.69 %
+C#           8 hrs                 >>>----------------------   12.62 %
+JSON         5 hrs 52 mins         >>-----------------------   09.25 %
+TypeScript   4 hrs 53 mins         >>-----------------------   07.69 %
 ```
 
 <!--END_SECTION:wakaP-->
